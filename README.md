@@ -1,5 +1,7 @@
 # auto_labelling_with_vlms
 Repo to obtain outputs from PaliGemma a Visual Language Model for object detection tasks and using the predictions as labels, visualized through VIA tool by VGG group. 
+![paligemma_arch](https://github.com/user-attachments/assets/9d48def5-5f2b-4d6a-998b-956697e9f011)
+
 
 
 Steps: 
