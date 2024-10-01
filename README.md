@@ -1,4 +1,4 @@
-# labelling_with_paligemma
+# auto_labelling_with_vlms
 Repo to obtain output from PaliGemma for object detection tasks and using the predictions as labels visualized through VIA tool by VGG group. 
 
 
