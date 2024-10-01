@@ -11,4 +11,6 @@ Steps:
 6. Click on via.html and upload the annotations generated
    <img width="1135" alt="Screenshot 2024-09-30 at 10 50 43 PM" src="https://github.com/user-attachments/assets/2724c542-194d-4732-a95c-901fed0128e3">
 7. Make sure to have the images folder inside the via folder as shown in ```step 4```
-8. Adjust/Add/Delete the annotations on a need 
+8. Adjust/Add/Delete the annotations on a need
+   <img width="1725" alt="Screenshot 2024-09-30 at 11 43 25 PM" src="https://github.com/user-attachments/assets/bfbc1d79-0e2e-4484-a272-3b3614754c62">
+ 
