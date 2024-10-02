@@ -20,6 +20,9 @@ References: <br>
 [1] https://github.com/NSTiwari/PaliGemma <br>
 [2] https://huggingface.co/docs/transformers/main/en/model_doc/paligemma
 
+
+Google Cloud credits are provided for this project #AISprint
+
 ## Cite This Work
 
 If you use this project in your research, please cite it using the following BibTeX entry:
