@@ -18,9 +18,9 @@ Steps:
 
 References: <br>
 [1] https://github.com/NSTiwari/PaliGemma <br>
-[2] https://huggingface.co/docs/transformers/main/en/model_doc/paligemma
-[3] https://www.kaggle.com/datasets/kylegraupe/wind-turbine-image-dataset-for-computer-vision
-[4] https://www.robots.ox.ac.uk/~vgg/software/via/
+[2] https://huggingface.co/docs/transformers/main/en/model_doc/paligemma <br>
+[3] https://www.kaggle.com/datasets/kylegraupe/wind-turbine-image-dataset-for-computer-vision <br>
+[4] https://www.robots.ox.ac.uk/~vgg/software/via/ <br>
 
 
 Google Cloud credits are provided for this project #AISprint
