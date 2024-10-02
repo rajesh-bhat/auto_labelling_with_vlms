@@ -18,5 +18,5 @@ Steps:
    <img width="1725" alt="Screenshot 2024-09-30 at 11 43 25 PM" src="https://github.com/user-attachments/assets/bfbc1d79-0e2e-4484-a272-3b3614754c62">
 
 References: 
-[1] https://github.com/NSTiwari/PaliGemma
+[1] https://github.com/NSTiwari/PaliGemma <br>
 [2] https://huggingface.co/docs/transformers/main/en/model_doc/paligemma
