@@ -5,8 +5,6 @@ Repo to obtain outputs from PaliGemma a Visual Language Model for object detecti
 ![paligemma_arch](https://github.com/user-attachments/assets/9d48def5-5f2b-4d6a-998b-956697e9f011)
 
 
-
-
 Steps: 
 1. Get token from Hugging Face and set as env variable ``` os.environ["HUGGINGFACE_API_TOKEN"] = "<enter the token here>" ```
 2. Put the images for which labels are needed in the images folder
@@ -18,3 +16,7 @@ Steps:
 7. Make sure to have the images folder inside the via folder as shown in ```step 4```
 8. Adjust/Add/Delete the annotations on a need
    <img width="1725" alt="Screenshot 2024-09-30 at 11 43 25 PM" src="https://github.com/user-attachments/assets/bfbc1d79-0e2e-4484-a272-3b3614754c62">
+
+References: 
+[1] https://github.com/NSTiwari/PaliGemma
+[2] https://huggingface.co/docs/transformers/main/en/model_doc/paligemma
