@@ -1,10 +1,14 @@
 # auto_labelling_with_vlms
+
+
 Repo to obtain outputs from PaliGemma a Visual Language Model for object detection tasks and using the predictions as labels, visualized through VIA tool by VGG group. 
 ![paligemma_arch](https://github.com/user-attachments/assets/9d48def5-5f2b-4d6a-998b-956697e9f011)
 
 
+
+
 Steps: 
-1. Get token from Hugging Face and set as env variable. 
+1. Get token from Hugging Face and set as env variable ``` os.environ["HUGGINGFACE_API_TOKEN"] = "<enter the token here>" ```
 2. Put the images for which labels are needed in the images folder
 3. Execute ```python3 auto_labelling_paligemma.py```
 4. Download the VIA tool : https://www.robots.ox.ac.uk/~vgg/software/via/downloads/via-2.0.12.zip
